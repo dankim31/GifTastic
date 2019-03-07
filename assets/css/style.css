@@ -1,0 +1,44 @@
+body {
+    background: #ABD9D5;
+    font-family: 'Anton', sans-serif;
+}
+
+h1 {
+    font-size: 70px;
+
+}
+
+.wrapper {
+    margin: 18px 20px;
+}
+
+.athlete-button {
+	font-size: 20px;
+	background: rgb(208, 161, 226);
+	border: none;
+	padding: 10px 15px;
+	margin: 3px;
+}
+
+#search-button {
+	font-size: 20px;
+	background: rgb(69, 216, 77);
+	border: none;
+	padding: 10px 15px;
+	margin: 3px;
+}
+
+#new-athlete-input {
+	padding: 10px 15px;
+	font-size: 20px;
+	border: none;  
+}
+
+.results-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.result-container {
+    margin: 30px 10px 10px;
+}
